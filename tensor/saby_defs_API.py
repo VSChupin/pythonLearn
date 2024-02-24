@@ -5,8 +5,8 @@ import json
 # Входные параметры
 url_auth = "https://fix-online.sbis.ru/auth/service/"
 url_work = "https://fix-online.sbis.ru/service/"
-login = "чупин-отпр"
-password = "чупин-отпр123"
+login = ""
+password = ""
 id_doc_vi = "f473c072-f615-4a0e-9b18-3ee63f83cd6f"
 
 
